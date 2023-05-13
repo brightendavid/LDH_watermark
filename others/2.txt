@@ -1,0 +1,138 @@
+Ahmadi M, Norouzi A, Karimi N, et al. ReDMark: Framework for residual diffusion watermarking based on deep networks[J]. Expert Systems with Applications, 2020, 146: 113157.
+
+Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, and Aleksander Madry. Adversarial Examples Are Not Bugs, They Are Features[J]. Advances in Neural Information Processing Systems (NeurIPS). 2019, 125-136.
+
+Bibi Isac and V Santhi. A Study on Digital Image and Video Watermarking Schemes using Neural Networks[J]. International Journal of Computer Applications, 2011, 12(9): 1-6.
+
+Bin Li, Ming Wang, Jiwu Huang, and Xiaolong Li. A New Cost Function for Spatial Image Steganography[C]//Proceedings of 2014 IEEE International Conference on Image Processing (ICIP). 2014: 4206-4210.
+
+Bin Li, Ming Wang, Xiaolong Li, Shunquan Tan, and Jiwu Huang. A Strategy of Clustering Modification Directions in Spatial Image Steganography[J]. Transactions on Information Forensics and Security. 2015, 10(9): 1905-1917.
+
+Chaoning Zhang, Francois Rameau, Junsik Kim, Dawit Mureja Argaw, Jean-Charles Bazin, and In So Kweon. DeepPTZ: Deep Self-Calibration for PTZ Cameras[C]//Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020: 1041-1049.
+
+Chaoning Zhang, Francois Rameau, Seokju Lee, Junsik Kim, Philipp Benz, Dawit Mureja Argaw, JeanCharles Bazin, and In So Kweon. Revisiting Residual Networks with Nonlinear Shortcuts[C]//Proceedings of the British Machine Vision Conference (BMVC). 2019.
+
+Chaoning Zhang, Philipp Benz, Adil Karjauv, and In So Kweon. Towards Robust Data Hiding Against (JPEG) Compression: A Pseudo-Differentiable Deep Learning Approach[O]. arXiv preprint arXiv: 2101.00973, 2020.
+
+Chaoning Zhang, Philipp Benz, Tooba Imtiaz, and In-So Kweon. Cd-uap: Class Discriminative Universal Adversarial Perturbation[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020: 6754-6761.
+
+Chaoning Zhang, Philipp Benz, Tooba Imtiaz, and In-So Kweon. Understanding Adversarial Examples From the Mutual Influence of Images and Perturbations[C]//Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR). 2020: 14521-14530.
+
+Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, and Rob Fergus. Intriguing properties of neural networks[O]. arXiv preprint arXiv: 1312.6199, 2013.
+
+Cong Jin and Shihui Wang. Applications of a Neural Network to Estimate Watermark Embedding Strength[C]. Eighth International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS'07). 2007: 68-68.
+
+Dahun Kim, Sanghyun Woo, Joon-Young Lee, and In So Kweon. Recurrent Temporal Aggregation Framework for Deep Video Inpainting[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2019, 42(5): 1038-1052.
+
+Dahun Kim, Sanghyun Woo, Joon-Young Lee, and In So Kweon. Video Panoptic Segmentation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 9859-9868.
+
+Diederik P Kingma and Jimmy Ba. Adam. A Method for Stochastic Optimization[O]. arXiv preprint arXiv: 1412.6980, 2015.
+
+Dong Yin, Raphael Gontijo Lopes, Jon Shlens, Ekin Dogus Cubuk, and Justin Gilmer. A Fourier Perspective on Model Robustness in Computer Vision[J]. Advances in Neural Information Processing Systems, 2019.32.
+
+E. Wengrowski and K. Dana, Light Field Messaging with Deep Photographic Steganography[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019: 1515-1524.
+
+Eric Wengrowski and Kristin Dana. Light Field Messaging with Deep Photographic Steganography[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio (CVPR). 2019: 1515-1524.
+
+Fang H, Chen D, Huang Q, et al. Deep template-based watermarking[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2020, 31(4): 1436-1451.
+
+Fang H, Chen D, Wang F, et al. TERA: Screen-to-Camera Image Code with Transparency, Efficiency, Robustness and Adaptability[J]. IEEE Transactions on Multimedia, 2021.
+
+Fang H, Zhang W, Zhou H, et al. Screen-shooting resilient watermarking[J]. IEEE Transactions on Information Forensics and Security, 2018, 14(6): 1403-1418.
+
+Fei Pan, Inkyu Shin, Francois Rameau, Seokju Lee, and In So Kweon. Unsupervised Intra-Domain Adaptation for Semantic Segmentation Through Self-Supervision[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 3764-3773.
+
+Gary C Kessler and Chet Hosmer. An Overview of Steganography[J]. In Advances in Computers. 2011, 83: 51-107.
+
+Gary C Kessler. An Overview of Steganography for the Computer forensics Examiner[J]. Forensic Science Communications. 2004, 6(3): 1-27.
+
+H. Kaur and J. Rani, A Survey on Different Techniques of Steganography[C]//Proceedings of the MATEC Web of Conferences. 2016, 57.
+
+Haribabu Kandi, Deepak Mishra, and Subrahmanyam RK Sai Gorthi. Exploring the Learning Capabilities of Convolutional Neural Networks for Robust Image Watermarking[J]. Computers & Security. 2017, 65: 247-268.
+
+I. Hussain, J. Zeng and S. Tan, A Survey on Deep Convolutional Neural Networks for Image Steganography and Steganalysis[J]. KSII Transactions on Internet and Information Systems (TIIS), 2020, 14(3): 1228-1248.
+
+Ian Goodfellow, Jonathon Shlens, and Christian Szegedy. Explaining and Harnessing Adversarial Examples[O]. arXiv preprint arXiv:1412.6572, 2014.
+
+J. Qin, Y. Luo, X. Xiang, Y. Tan and H. Huang. Coverless Image Steganography: A Survey[J]. IEEE Access, 2019, 7(99): 171372-171394.
+
+J. Zhu, R. Kaplan, J. Johnson and L. Fei-Fei, HiDDeN: Hiding Data with Deep Networks[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 657-672.
+
+Jamie Hayes and George Danezis. Generating Steganographic Images Via Adversarial Training[J]. Advances in Neural Information Processing Systems. 2017: 1954-1963.
+
+Jessica Fridrich and Miroslav Goljan. Practical Steganalysis of Digital Images: State of The Art[J]. SPIE the International Society for Optical Engineering. 2002, 4675: 1-13.
+
+Jessica Fridrich and Tomas Filler. Practical Methods for Minimizing Embedding Impact in Steganography[C]. Security, Steganography, and Watermarking of Multimedia Contents IX. SPIE, 2007, 6505: 13-27.
+
+Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks[C]//Proceedings of the International Conference on Computer Vision (ICCV). 2017: 2223-2232.
+
+K. Joshi, S. Gill and R. Yadav, A New Method of Image Steganography Using 7th Bit of a Pixel as Indicator by Introducing the Successive Temporary Pixel in the Gray Scale Image[J]. Journal of Computer Networks and Communications. 2018, 2018.
+
+L. Rathika and B. Loganathan, Approaches and Methods for Steganalysis - A Survey[J]. Journal of Advanced Research in Computer and Communication Engineering (IJARCCE). 2017, 6(6): 433-438.
+
+Li L, Bai R, Zhang S, Chang CC, Shi M. Screen-Shooting Resilient Watermarking Scheme via Learned Invariant Keypoints and QT[J]. Sensors. 2021 Sep 30;21(19):6554.
+
+Liu Y, Guo M, Zhang J, et al. A novel two-stage separable deep learning framework for practical blind watermarking[C]//Proceedings of the 27th ACM International Conference on Multimedia. 2019: 1509-1517.
+
+Luo X, Zhan R, Chang H, et al. Distortion agnostic deep watermarking[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 13548-13557.
+
+M. Khalid, K. Arora and N. Pal. A Crypto-Steganography: A Survey[J]. International Journal of Advanced Computer Science and Application, 2014, 5(7): 149-155.
+
+M. Tancik, B. Mildenhall, and R. Ng, StegaStamp: Invisible Hyperlinks in Physical Photographs[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 2117-2126.
+
+Madison J, Techreport I, Dickman S D. An Overview of Steganography[J]. Department of Computer Science, James Madison University Infosec Techreport, 2007, 2: 305-315
+
+Neil F Johnson and Sushil Jajodia. Exploring Steganography: Seeing the Unseen[J]. Computer 1998, 31(2): 26-34.
+
+Niels Provos. Defending Against Statistical Steganalysis[C]. 10th USENIX Security Symposium. 2001.
+
+O. Ronneberger, P. Fischer and T. Brox, U-Net: Convolutional Networks for Biomedical Image Segmentation[C]//Proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2015: 234-241.
+
+Pin Wu, Yang Yang, and Xiaoqiang Image-into-Image Steganography Using Deep Convolutional Network[C]//Proceedings of the Pacific Rim Conference on Multimedia. Springer, Cham, 2018: 792-802.
+
+R. Chandramouli and N. Memon, Analysis of LSB based Image Steganography Techniques[C]//Proceedings of the International Conference on Image Processing. 2001: 1019-1022.
+
+Richard Zhang, Phillip Isola, Alexei A Efros, Eli Shechtman, and Oliver Wang. The Unreasonable Effectiveness of Deep Features as a Perceptual Metric[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 586-595.
+
+Saumya Jetley, Nicholas Lord, and Philip Torr. With Friends Like These, Who Needs Adversaries[J]. Advances in neural information processing systems, 2018, 31.
+
+Seung-Min Mun, Seung-Hun Nam, Han-Ul Jang, Dongkyu Kim, and Heung-Kyu Lee. A Robust Blind Watermarking Using Convolutional Neural Network[O]. arXiv preprint arXiv: 1704.03248, 2017.
+
+Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard, and Stefano Soatto. Analysis of universal adversarial perturbations[O]. arXiv preprint arXiv:1705.09554. 2017.
+
+Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, and Pascal Frossard. Universal Adversarial Perturbations[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1765-1773.
+
+Shin, Richard, and Dawn Song. Jpeg-resistant adversarial images[C]//In NIPS 2017 Workshop on Machine Learning and Computer Security, vol. 1, p. 8. 2017.
+
+Tomáš Pevny, Tomáš Filler, and Patrick Bas. Using High-Dimensional Image Models to Perform Highly Undetectable Steganography[C].//International Workshop on Information Hiding. Springer, Berlin, Heidelberg, 2010: 161-177.
+
+Vahid Sedighi, Rémi Cogranne, and Jessica Fridrich. Content-Adaptive Steganography by Minimizing Statistical Detectability[J]. IEEE Transactions on Information Forensics and Security. 2015, 11(2): 221-234.
+
+Vojtˇech Holub, Jessica Fridrich, and Tomáš Denemark. Universal Distortion Function for Steganography in an Arbitrary Domain[J]. Eurasip Journal on Information Security. 2014, 2014(1): 1-13.
+
+W. Yuan, K. Dana, M. Varga, A. Ashok, M. Gruteser and N. Mandayam, Computer Vision Methods For Visual MIMO Optical System[C]//Proceedings of the Vision and Pattern Recognition (CVPR) Workshops. 2011: 37-43.
+
+Weixuan Tang, Bin Li, Weiqi Luo, and Jiwu Huang. Clustering Steganographic Modification Directions for Color Components[J]. IEEE Signal Processing Letters. 2015, 23(2): 197-201.
+
+Wengrowski E, Dana K. Light field messaging with deep photographic steganography[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019: 1515-1524.
+
+Xinyu Weng, Yongzhi Li, Lu Chi, and Yadong Mu. Convolutional Video Steganography with Temporal Residual Modeling[O]. arXiv preprint arXiv: 1806.02941, 2018.
+
+Yan Feng, Bin Chen, Tao Dai, and Shutao Xia. Adversarial Attack on Deep Product Quantization Network for Image Retrieval[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020: 10786-10793.
+
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. Deep learning[J]. Nature. 2015, 521(7553): 436-444.
+
+Yu C. Attention based data hiding with generative adversarial networks[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(01): 1120-1128.
+
+Z. Al-Omari and A. Al-Taani, A Survey on Digital Image Steganography[C]//Proceedings of the 7th International Conference on Information Technology (ICIT 2015). 2015: 109-115.
+
+Zhang C, Benz P, Karjauv A, et al. Udh: Universal deep hiding for steganography, watermarking, and light field messaging[J]. Advances in Neural Information Processing Systems, 2020, 33: 10223-10234.
+
+Zhang C, Karjauv A, Benz P, et al. Towards Robust Data Hiding Against (JPEG) Compression: A Pseudo-Differentiable Deep Learning Approach[J]. arXiv preprint arXiv:2101.00973, 2020.
+
+Zhang H, Wang H, Li Y, et al. Robust Watermarking Using Inverse Gradient Attention[J]. arXiv preprint arXiv:2011.10850, 2020.
+
+Zhong X, Huang P C, Mastorakis S, et al. An Automated and Robust Image Watermarking Scheme Based on Deep Neural Networks[J]. IEEE Transactions on Multimedia, 2020.
+
+guofei9987.2022.blind_watermark. https://github.com/guofei9987/blind_watermark(2022)
+
