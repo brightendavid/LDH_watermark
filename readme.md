@@ -6,6 +6,9 @@ watermark项目自2022年4月9日开始，tensorboard命令行可视化 ： tens
 __tensorboard --logdir='runs' --port=6006__
 </details>
 # 一种基于最小依赖隐藏的抗盗摄图形暗水印算法
+论文链接可见
+
+https://kns.cnki.net/kcms2/article/abstract?v=A8ynNhXZdPmVkrebegexd8uLeruLszmg1BHLodY3qKnRSukKjjlCnUdK3c5Btq4qUv3120SaNFpT4b6YyP7a3Et8uwc0gBNrmXswCk7l4zPtPPrr7pYky-AQss6F33aAv6N4ibTqexU74RTnHBywxXVX5keRXwFe-aiPRzXI6zM=&uniplatform=NZKPT
 
 * 已申请专利
 
